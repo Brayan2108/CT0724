@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-20T11:19:19 CST" name="Default suite" finished-at="2024-07-20T11:19:45 CST" duration-ms="26110">
+    <groups>
+    </groups>
+    <test started-at="2024-07-20T11:19:19 CST" name="Default test" finished-at="2024-07-20T11:19:45 CST" duration-ms="26110">
+      <class name="testng.Test_Selenium">
+        <test-method signature="f()[pri:0, instance:testng.Test_Selenium@71238fc2]" started-at="2024-07-20T11:19:19 CST" name="f" finished-at="2024-07-20T11:19:45 CST" duration-ms="25988" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- testng.Test_Selenium -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
